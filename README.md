@@ -25,3 +25,6 @@ Data in Matlab .mat structure file:
 
 The Matlab analysis script 'analysis_ft.m' is provided, which generated most optical absorption related analysis and figures in the published study. This is for guidance - it will not run end-to-end as the upstream raw data is not uploaded. The 'data_sulphates.mat' csv be loaded instead.
 Note that for some figures, Inkscape was used for post-processing of SVG figures.
+
+'Hbspec.mat' contains oxy and deoxyhemoglobin spectra used downstream in the script for illustrative purposes.
+Data sourced from Scott Prahl's ['Tabulated Molar Extinction COefficient for Hemoglobin in Water' OMLC page](https://omlc.org/spectra/hemoglobin/summary.html). (tbc)
